@@ -1,4 +1,9 @@
 # GPL License
+# This is a lost cuase, why do the original Cats Developers love huge funcions so much? 
+# I know my code can be bad but this is on another level.
+# Good luck if this breaks because I have no idea wwhat is going on here.
+# my brain is fried from trying to read this code.
+# Love from Yusarina
 
 import os
 import bpy
